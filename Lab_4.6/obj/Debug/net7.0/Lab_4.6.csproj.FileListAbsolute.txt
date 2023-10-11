@@ -1,0 +1,14 @@
+D:\A_univer\АП\code\Lab_4.6\Lab_4.6\bin\Debug\net7.0\Lab_4.6.exe
+D:\A_univer\АП\code\Lab_4.6\Lab_4.6\bin\Debug\net7.0\Lab_4.6.deps.json
+D:\A_univer\АП\code\Lab_4.6\Lab_4.6\bin\Debug\net7.0\Lab_4.6.runtimeconfig.json
+D:\A_univer\АП\code\Lab_4.6\Lab_4.6\bin\Debug\net7.0\Lab_4.6.dll
+D:\A_univer\АП\code\Lab_4.6\Lab_4.6\bin\Debug\net7.0\Lab_4.6.pdb
+D:\A_univer\АП\code\Lab_4.6\Lab_4.6\obj\Debug\net7.0\Lab_4.6.GeneratedMSBuildEditorConfig.editorconfig
+D:\A_univer\АП\code\Lab_4.6\Lab_4.6\obj\Debug\net7.0\Lab_4.6.AssemblyInfoInputs.cache
+D:\A_univer\АП\code\Lab_4.6\Lab_4.6\obj\Debug\net7.0\Lab_4.6.AssemblyInfo.cs
+D:\A_univer\АП\code\Lab_4.6\Lab_4.6\obj\Debug\net7.0\Lab_4.6.csproj.CoreCompileInputs.cache
+D:\A_univer\АП\code\Lab_4.6\Lab_4.6\obj\Debug\net7.0\Lab_4.6.dll
+D:\A_univer\АП\code\Lab_4.6\Lab_4.6\obj\Debug\net7.0\refint\Lab_4.6.dll
+D:\A_univer\АП\code\Lab_4.6\Lab_4.6\obj\Debug\net7.0\Lab_4.6.pdb
+D:\A_univer\АП\code\Lab_4.6\Lab_4.6\obj\Debug\net7.0\Lab_4.6.genruntimeconfig.cache
+D:\A_univer\АП\code\Lab_4.6\Lab_4.6\obj\Debug\net7.0\ref\Lab_4.6.dll
